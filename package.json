@@ -1,0 +1,11 @@
+{
+  "name": "20190206openlayers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thijs Smits <beyanora@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1"
+  }
+}
