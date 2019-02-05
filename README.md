@@ -15,6 +15,7 @@ See https://gist.github.com/willurd/5720255 for a list of one-liners.
 Example:
 
 ```bash
+cd src
 php -S localhost:1234
 ```
 
