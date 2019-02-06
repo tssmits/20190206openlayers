@@ -22,6 +22,7 @@ Then visit http://localhost:1234 in your favorite browser.
 
 Don't have PHP? No fear! See https://gist.github.com/willurd/5720255 for a list of one-liners that start a static server.
 
+Of course, you can also use your LAMP/XAMPP stack or plain old Apache if you have them installed.
 
 ## 3. Have fun hacking!
 
