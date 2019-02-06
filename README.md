@@ -18,6 +18,18 @@ cd src
 php -S localhost:1234
 ```
 
+Or Python:
+
+```bash
+cd src
+
+# python 2
+python -m SimpleHTTPServer 8000
+
+# python 3
+python -m http.server 8000
+```
+
 Then visit http://localhost:1234 in your favorite browser.
 
 Don't have PHP? No fear! See https://gist.github.com/willurd/5720255 for a list of one-liners that start a static server.
